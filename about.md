@@ -6,4 +6,6 @@ text = "Test"
 
 Welcome to my blog
 
-- [Home](/)
+Learn more
+
+* [Home](/)
